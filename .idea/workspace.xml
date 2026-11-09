@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04200f1e-12b7-4b33-bc4e-530572d32845" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/mano/StudioProjects/Assignment 1" value="3Lm1gMtXF7dE03WtbolRRKlQyk6" />
+    </persistenceIdMap>
+  </component>
+  <component name="DBNavigator.Project.Workspace.Settings">
+    <assistant-settings>
+      <credential-settings>
+        <credentials />
+      </credential-settings>
+      <profile-settings>
+        <profiles />
+      </profile-settings>
+      <mcp-server-settings>
+        <workspace-integration value="false" />
+        <mcp-servers />
+        <mcp-tool-approvals />
+      </mcp-server-settings>
+    </assistant-settings>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000020313" />
+      <entry key="S5" value="1.0000394625359526" />
+      <entry key="S10" value="1.016481078133972" />
+      <entry key="S30" value="2.2638664967800217" />
+      <entry key="S60" value="5.209591637607644" />
+      <entry key="M2" value="9.694903637956367" />
+      <entry key="M5" value="19.402785205703236" />
+      <entry key="M10" value="31.06361610676422" />
+      <entry key="M15" value="38.747160906606624" />
+      <entry key="M30" value="50.919132397708026" />
+      <entry key="H1" value="59.90291525162406" />
+      <entry key="H2" value="65.48378350237189" />
+      <entry key="H4" value="68.61316026614868" />
+      <entry key="D1" value="71.41653372233317" />
+      <entry key="W1" value="71.916167200676" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.2013136429275797E-134" />
+      <entry key="MS500" value="1.8558222856297662E-27" />
+      <entry key="S2" value="2.0884031508580466E-7" />
+      <entry key="S5" value="0.0024850654846950483" />
+      <entry key="S10" value="0.07829065705502372" />
+      <entry key="S30" value="1.142667606460684" />
+      <entry key="S60" value="2.612174508621553" />
+      <entry key="M2" value="4.87755356936606" />
+      <entry key="M5" value="10.476097893481494" />
+      <entry key="M10" value="16.983358190319304" />
+      <entry key="M15" value="20.90755955329868" />
+      <entry key="M30" value="26.540901237504197" />
+      <entry key="H1" value="30.315513931374547" />
+      <entry key="H2" value="32.52713793114959" />
+      <entry key="H4" value="33.72845658437217" />
+      <entry key="D1" value="34.78297189223005" />
+      <entry key="W1" value="34.9688678793598" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.936614669264435E-5" />
+      <entry key="MS500" value="0.14279328085606816" />
+      <entry key="S2" value="0.614719466182095" />
+      <entry key="S5" value="0.8243139095693984" />
+      <entry key="S10" value="0.9767055789913198" />
+      <entry key="S30" value="3.239446926955961" />
+      <entry key="S60" value="7.648194109568213" />
+      <entry key="M2" value="14.422162426994756" />
+      <entry key="M5" value="29.76172308448114" />
+      <entry key="M10" value="47.95506486760971" />
+      <entry key="M15" value="59.579838576456844" />
+      <entry key="M30" value="77.41269147995851" />
+      <entry key="H1" value="90.19139748612368" />
+      <entry key="H2" value="97.9964130684069" />
+      <entry key="H4" value="102.33409188975062" />
+      <entry key="D1" value="106.19821172320432" />
+      <entry key="W1" value="106.88484923623356" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: true
+}</component>
+  <component name="ProjectId" id="3Lly9Msxxa7Gank3aaFYCQ9aGBs" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.assignment_1.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.even_odd_checker.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.number_sorter.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.ColorSchemeFont&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Dart Command Line App.number_sorter.dart">
+    <configuration name="assignment_1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/assignment_1.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="even_odd_checker.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/even_odd_checker.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_sorter.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/number_sorter.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.number_sorter.dart" />
+        <item itemvalue="Dart Command Line App.even_odd_checker.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04200f1e-12b7-4b33-bc4e-530572d32845" name="Changes" comment="" />
+      <created>1794042799113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794042799113</updated>
+    </task>
+    <servers />
+  </component>
+</project>
